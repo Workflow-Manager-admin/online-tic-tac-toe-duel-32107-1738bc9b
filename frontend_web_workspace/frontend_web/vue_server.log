@@ -9,3 +9,6 @@
   ➜  Network: http://172.17.0.2:3000/
   ➜  Vue DevTools: Open http://localhost:3000/__devtools__/ as a separate window
   ➜  Vue DevTools: Press Alt(⌥)+Shift(⇧)+D in App to toggle the Vue DevTools
+6:12:17 AM [vite] (client) page reload src/router/index.ts
+6:12:24 AM [vite] (client) hmr update /src/App.vue, /src/App.vue?vue&type=style&index=0&scoped=7a7a37b1&lang.css
+6:13:55 AM [vite] (client) page reload src/router/index.ts
